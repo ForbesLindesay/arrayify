@@ -32,7 +32,7 @@ toArray(new Date) // => [Wed Nov 07 2012 04:40:26 GMT+1000 (EST)]
 // Special cases
 toArray(undefined) // => []
 toArray(window) // => [window]
-toArray('a.important') // => [DOM elements matching the query selector 'a.important']
+toArray('a.important', {query: true}) // => [DOM elements matching the query selector 'a.important']
 ```
 
 ## License
