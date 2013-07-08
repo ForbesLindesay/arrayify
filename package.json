@@ -1,6 +1,6 @@
 {
   "name": "arrayify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert array like items or individual items into arrays",
   "keywords": [],
   "dependencies": {},
