@@ -1,5 +1,7 @@
 'use strict'
 
+var isArray = require('isarray')
+
 /**
  * Convert an array-like object into an `Array`.
  * If `collection` is already an `Array`, then will return a clone of `collection`.
@@ -14,7 +16,7 @@ module.exports = function toArray(collection, options) {
   if (typeof collection === 'undefined') return []
   if (collection === null) return [null]
   if (typeof window != 'undefined' && collection === window) return [window]
-  if (Array.isArray(collection)) return collection.slice()
+  if (isArray(collection)) return collection.slice()
   if (typeof collection.length != 'number') return [collection]
   if (typeof collection === 'function') return [collection]
   if (collection.length === 0) return []

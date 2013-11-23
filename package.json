@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Convert array like items or individual items into arrays",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "isarray": "0.0.1"
+  },
   "devDependencies": {
     "mocha": "*"
   },
