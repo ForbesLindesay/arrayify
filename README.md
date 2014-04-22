@@ -2,9 +2,9 @@
 
 Convert array like items or individual items into arrays (for both browser and server)
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/arrayify.png?branch=master)](https://travis-ci.org/ForbesLindesay/arrayify)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/arrayify.png)](https://gemnasium.com/ForbesLindesay/arrayify)
-[![NPM version](https://badge.fury.io/js/arrayify.png)](http://badge.fury.io/js/arrayify)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/arrayify/master.svg)](https://travis-ci.org/ForbesLindesay/arrayify)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/arrayify.svg)](https://gemnasium.com/ForbesLindesay/arrayify)
+[![NPM version](https://img.shields.io/npm/v/arrayify.svg)](http://badge.fury.io/js/arrayify)
 
 ## Installation
 
