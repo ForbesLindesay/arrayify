@@ -3,8 +3,8 @@
 Convert array like items or individual items into arrays (for both browser and server)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/arrayify/master.svg)](https://travis-ci.org/ForbesLindesay/arrayify)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/arrayify.svg)](https://gemnasium.com/ForbesLindesay/arrayify)
-[![NPM version](https://img.shields.io/npm/v/arrayify.svg)](http://badge.fury.io/js/arrayify)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/arrayify.svg)](https://david-dm.org/ForbesLindesay/arrayify)
+[![NPM version](https://img.shields.io/npm/v/arrayify.svg)](https://www.npmjs.com/package/arrayify)
 
 ## Installation
 
