@@ -1,5 +1,7 @@
 # arrayify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/arrayify.svg)](https://greenkeeper.io/)
+
 Convert array like items or individual items into arrays (for both browser and server)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/arrayify/master.svg)](https://travis-ci.org/ForbesLindesay/arrayify)
