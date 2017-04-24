@@ -5,7 +5,7 @@
   "keywords": [],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "3.2.0"
   },
   "scripts": {
     "test": "mocha -R spec"
